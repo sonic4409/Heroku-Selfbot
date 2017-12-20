@@ -1,0 +1,11 @@
+{
+    "cc" : {
+        "test" : "printf \"Hello.\nThis is a custom command made using the magic of ~~unicorn poop~~ python.\nLook into /settings/terminal\""
+    },
+    "enabled" : true,
+    "os" : {
+        "linux" : "{user}@{system}:{path} $ ",
+        "windows" : "{path}>"
+    },
+    "prefix" : "-"
+}

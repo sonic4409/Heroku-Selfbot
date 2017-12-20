@@ -1,0 +1,707 @@
+[04/12/2017 18:18] WARNING client __init__ 137: PyNaCl is not installed, voice will NOT be supported
+[04/12/2017 18:19] INFO client login 351: logging in using static token
+[04/12/2017 18:19] INFO gateway from_client 215: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[04/12/2017 18:19] INFO gateway identify 295: Shard ID None has sent the IDENTIFY payload.
+[04/12/2017 18:19] INFO gateway received_message 388: Shard ID None has connected to Gateway: gateway-prd-main-fwnh, discord-sessions-prd-1-14 (Session ID: 18337859d2c359c6e47c7cc90cafbb3d).
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 808 members in guild ID 196618637950451712.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 4 members in guild ID 261259535119941642.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 50 members in guild ID 295285912248647691.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 31 members in guild ID 295698667594055681.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 882 members in guild ID 299293492645986307.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 64 members in guild ID 318626746297745409.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 5 members in guild ID 321076205392625665.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1 members in guild ID 326941770489266176.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 327165719198433280.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 528 members in guild ID 327165719198433280.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 3 members in guild ID 330952336451043328.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 122 members in guild ID 366985144013291532.
+[04/12/2017 18:19] INFO state parse_guild_members_chunk 765: Processed a chunk for 7 members in guild ID 377941122032599040.
+[04/12/2017 18:19] INFO state _delay_ready 284: Requesting GUILD_SYNC for 12 guilds
+[04/12/2017 18:31] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[04/12/2017 18:44] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[04/12/2017 18:48] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[04/12/2017 18:50] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[04/12/2017 18:50] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[04/12/2017 18:55] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[04/12/2017 18:57] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[04/12/2017 18:59] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[04/12/2017 18:59] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[04/12/2017 19:01] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[04/12/2017 19:01] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[04/12/2017 19:02] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[04/12/2017 19:07] WARNING client __init__ 137: PyNaCl is not installed, voice will NOT be supported
+[04/12/2017 19:07] INFO client login 351: logging in using static token
+[04/12/2017 19:07] INFO gateway from_client 215: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[04/12/2017 19:07] INFO gateway identify 295: Shard ID None has sent the IDENTIFY payload.
+[04/12/2017 19:07] INFO gateway received_message 388: Shard ID None has connected to Gateway: gateway-prd-main-7cr7, discord-sessions-prd-1-2 (Session ID: 9d867ba90a0cc8f36e5986edaea8f1f2).
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 809 members in guild ID 196618637950451712.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 4 members in guild ID 261259535119941642.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 50 members in guild ID 295285912248647691.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 31 members in guild ID 295698667594055681.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 882 members in guild ID 299293492645986307.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 64 members in guild ID 318626746297745409.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 5 members in guild ID 321076205392625665.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1 members in guild ID 326941770489266176.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 327165719198433280.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 527 members in guild ID 327165719198433280.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 3 members in guild ID 330952336451043328.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 122 members in guild ID 366985144013291532.
+[04/12/2017 19:07] INFO state parse_guild_members_chunk 765: Processed a chunk for 7 members in guild ID 377941122032599040.
+[04/12/2017 19:07] INFO state _delay_ready 284: Requesting GUILD_SYNC for 12 guilds
+[04/12/2017 20:40] WARNING client __init__ 137: PyNaCl is not installed, voice will NOT be supported
+[04/12/2017 20:40] INFO client login 351: logging in using static token
+[04/12/2017 20:40] INFO gateway from_client 215: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[04/12/2017 20:40] INFO gateway identify 295: Shard ID None has sent the IDENTIFY payload.
+[04/12/2017 20:40] INFO gateway received_message 388: Shard ID None has connected to Gateway: gateway-prd-main-6thm, discord-sessions-prd-1-5 (Session ID: 73aa8f6fa6adf4545645619339a2b75b).
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 819 members in guild ID 196618637950451712.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 4 members in guild ID 261259535119941642.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 50 members in guild ID 295285912248647691.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 31 members in guild ID 295698667594055681.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 883 members in guild ID 299293492645986307.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 64 members in guild ID 318626746297745409.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 5 members in guild ID 321076205392625665.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1 members in guild ID 326941770489266176.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 327165719198433280.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 532 members in guild ID 327165719198433280.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 3 members in guild ID 330952336451043328.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 122 members in guild ID 366985144013291532.
+[04/12/2017 20:40] INFO state parse_guild_members_chunk 765: Processed a chunk for 7 members in guild ID 377941122032599040.
+[04/12/2017 20:40] INFO state _delay_ready 284: Requesting GUILD_SYNC for 12 guilds
+[04/12/2017 20:41] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[04/12/2017 20:41] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[04/12/2017 20:46] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[04/12/2017 20:53] WARNING state parse_voice_state_update 783: VOICE_STATE_UPDATE referencing an unknown member ID: 301376807448477706. Discarding.
+[04/12/2017 20:57] WARNING state parse_voice_state_update 783: VOICE_STATE_UPDATE referencing an unknown member ID: 263566249575841792. Discarding.
+[04/12/2017 21:14] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[04/12/2017 21:20] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[04/12/2017 21:22] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[04/12/2017 21:23] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[04/12/2017 21:25] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[04/12/2017 21:27] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[04/12/2017 21:29] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[04/12/2017 21:31] WARNING client __init__ 137: PyNaCl is not installed, voice will NOT be supported
+[04/12/2017 21:31] INFO client login 351: logging in using static token
+[04/12/2017 21:31] INFO gateway from_client 215: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[04/12/2017 21:31] INFO gateway identify 295: Shard ID None has sent the IDENTIFY payload.
+[04/12/2017 21:31] INFO gateway received_message 388: Shard ID None has connected to Gateway: gateway-prd-main-n853, discord-sessions-prd-1-4 (Session ID: 8e57892d27ea0da330c0766105735965).
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 823 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 4 members in guild ID 261259535119941642.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 50 members in guild ID 295285912248647691.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 31 members in guild ID 295698667594055681.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 884 members in guild ID 299293492645986307.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 64 members in guild ID 318626746297745409.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 5 members in guild ID 321076205392625665.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1 members in guild ID 326941770489266176.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 327165719198433280.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 530 members in guild ID 327165719198433280.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 3 members in guild ID 330952336451043328.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 122 members in guild ID 366985144013291532.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 7 members in guild ID 377941122032599040.
+[04/12/2017 21:31] INFO state _delay_ready 284: Requesting GUILD_SYNC for 12 guilds
+[04/12/2017 21:31] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[04/12/2017 21:31] WARNING client __init__ 137: PyNaCl is not installed, voice will NOT be supported
+[04/12/2017 21:31] INFO client login 351: logging in using static token
+[04/12/2017 21:31] INFO gateway from_client 215: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[04/12/2017 21:31] INFO gateway identify 295: Shard ID None has sent the IDENTIFY payload.
+[04/12/2017 21:31] INFO gateway received_message 388: Shard ID None has connected to Gateway: gateway-prd-main-sd7x, discord-sessions-prd-1-10 (Session ID: 2c4b65d6af0ab15a5ba7ca3fe23120f2).
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 823 members in guild ID 196618637950451712.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 4 members in guild ID 261259535119941642.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 50 members in guild ID 295285912248647691.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 31 members in guild ID 295698667594055681.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 884 members in guild ID 299293492645986307.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 64 members in guild ID 318626746297745409.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 5 members in guild ID 321076205392625665.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1 members in guild ID 326941770489266176.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 327165719198433280.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 530 members in guild ID 327165719198433280.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 3 members in guild ID 330952336451043328.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 122 members in guild ID 366985144013291532.
+[04/12/2017 21:31] INFO state parse_guild_members_chunk 765: Processed a chunk for 7 members in guild ID 377941122032599040.
+[04/12/2017 21:31] INFO state _delay_ready 284: Requesting GUILD_SYNC for 12 guilds
+[04/12/2017 21:32] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[04/12/2017 21:48] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[04/12/2017 21:49] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[04/12/2017 21:49] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[04/12/2017 21:59] WARNING client __init__ 137: PyNaCl is not installed, voice will NOT be supported
+[04/12/2017 21:59] INFO client login 351: logging in using static token
+[04/12/2017 21:59] INFO gateway from_client 215: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[04/12/2017 21:59] INFO gateway identify 295: Shard ID None has sent the IDENTIFY payload.
+[04/12/2017 21:59] INFO gateway received_message 388: Shard ID None has connected to Gateway: gateway-prd-main-qmd7, discord-sessions-prd-1-15 (Session ID: 1489ef2ed6908c5ecd1752d394e9e9f6).
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 823 members in guild ID 196618637950451712.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 4 members in guild ID 261259535119941642.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 50 members in guild ID 295285912248647691.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 31 members in guild ID 295698667594055681.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 884 members in guild ID 299293492645986307.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 64 members in guild ID 318626746297745409.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 5 members in guild ID 321076205392625665.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1 members in guild ID 326941770489266176.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 327165719198433280.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 531 members in guild ID 327165719198433280.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 3 members in guild ID 330952336451043328.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 122 members in guild ID 366985144013291532.
+[04/12/2017 21:59] INFO state parse_guild_members_chunk 765: Processed a chunk for 7 members in guild ID 377941122032599040.
+[04/12/2017 21:59] INFO state _delay_ready 284: Requesting GUILD_SYNC for 12 guilds
+[04/12/2017 22:01] WARNING client __init__ 137: PyNaCl is not installed, voice will NOT be supported
+[04/12/2017 22:01] INFO client login 351: logging in using static token
+[04/12/2017 22:01] INFO gateway from_client 215: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[04/12/2017 22:01] INFO gateway identify 295: Shard ID None has sent the IDENTIFY payload.
+[04/12/2017 22:01] INFO gateway received_message 388: Shard ID None has connected to Gateway: gateway-prd-main-6thm, discord-sessions-prd-1-16 (Session ID: c2233032e7ec38be1d1bd8d38588980d).
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 823 members in guild ID 196618637950451712.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 4 members in guild ID 261259535119941642.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 50 members in guild ID 295285912248647691.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 31 members in guild ID 295698667594055681.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 884 members in guild ID 299293492645986307.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 64 members in guild ID 318626746297745409.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 5 members in guild ID 321076205392625665.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1 members in guild ID 326941770489266176.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 327165719198433280.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 531 members in guild ID 327165719198433280.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 3 members in guild ID 330952336451043328.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 122 members in guild ID 366985144013291532.
+[04/12/2017 22:01] INFO state parse_guild_members_chunk 765: Processed a chunk for 7 members in guild ID 377941122032599040.
+[04/12/2017 22:01] INFO state _delay_ready 284: Requesting GUILD_SYNC for 12 guilds
+[04/12/2017 22:02] WARNING client __init__ 137: PyNaCl is not installed, voice will NOT be supported
+[04/12/2017 22:02] INFO client login 351: logging in using static token
+[04/12/2017 22:02] INFO gateway from_client 215: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[04/12/2017 22:02] INFO gateway identify 295: Shard ID None has sent the IDENTIFY payload.
+[04/12/2017 22:02] INFO gateway received_message 388: Shard ID None has connected to Gateway: gateway-prd-main-fwnh, discord-sessions-prd-1-7 (Session ID: 9f8e07eb1e96c8c7ac73e2bfa845d654).
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 823 members in guild ID 196618637950451712.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 4 members in guild ID 261259535119941642.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 50 members in guild ID 295285912248647691.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 31 members in guild ID 295698667594055681.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 884 members in guild ID 299293492645986307.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 64 members in guild ID 318626746297745409.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 5 members in guild ID 321076205392625665.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1 members in guild ID 326941770489266176.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 327165719198433280.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 531 members in guild ID 327165719198433280.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 3 members in guild ID 330952336451043328.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 122 members in guild ID 366985144013291532.
+[04/12/2017 22:02] INFO state parse_guild_members_chunk 765: Processed a chunk for 7 members in guild ID 377941122032599040.
+[04/12/2017 22:02] INFO state _delay_ready 284: Requesting GUILD_SYNC for 12 guilds
+[18/12/2017 20:46] WARNING client __init__ 137: PyNaCl is not installed, voice will NOT be supported
+[18/12/2017 20:46] INFO client login 351: logging in using static token
+[18/12/2017 20:46] INFO gateway from_client 215: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[18/12/2017 20:46] INFO gateway identify 295: Shard ID None has sent the IDENTIFY payload.
+[18/12/2017 20:46] INFO gateway received_message 388: Shard ID None has connected to Gateway: gateway-prd-main-9842, discord-sessions-prd-1-10 (Session ID: 2490ab9cca775f59e19607e390b6b44f).
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 422 members in guild ID 196618637950451712.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 4 members in guild ID 261259535119941642.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 54 members in guild ID 295285912248647691.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 31 members in guild ID 295698667594055681.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 907 members in guild ID 299293492645986307.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 64 members in guild ID 318626746297745409.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 5 members in guild ID 321076205392625665.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1 members in guild ID 326941770489266176.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 327165719198433280.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 556 members in guild ID 327165719198433280.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 3 members in guild ID 330952336451043328.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 128 members in guild ID 366985144013291532.
+[18/12/2017 20:46] INFO state parse_guild_members_chunk 765: Processed a chunk for 8 members in guild ID 377941122032599040.
+[18/12/2017 20:46] INFO state _delay_ready 284: Requesting GUILD_SYNC for 12 guilds
+[18/12/2017 20:49] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 20:49] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 20:49] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 20:55] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[18/12/2017 21:04] WARNING gateway received_message 400: Unknown event USER_SETTINGS_UPDATE.
+[18/12/2017 21:05] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[18/12/2017 21:06] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:06] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:07] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[18/12/2017 21:07] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:08] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[18/12/2017 21:10] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:10] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:11] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[18/12/2017 21:11] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:11] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:11] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:11] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:11] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:11] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:11] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:12] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:12] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[18/12/2017 21:13] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:13] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:13] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:16] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:17] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:18] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:18] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:19] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:19] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:20] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:20] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:21] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:22] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:22] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:26] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:26] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:26] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[18/12/2017 21:28] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[18/12/2017 21:30] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[18/12/2017 21:30] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:30] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:32] WARNING client __init__ 137: PyNaCl is not installed, voice will NOT be supported
+[18/12/2017 21:32] INFO client login 351: logging in using static token
+[18/12/2017 21:32] INFO gateway from_client 215: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[18/12/2017 21:32] INFO gateway identify 295: Shard ID None has sent the IDENTIFY payload.
+[18/12/2017 21:32] INFO gateway received_message 388: Shard ID None has connected to Gateway: gateway-prd-main-1hjf, discord-sessions-prd-1-8 (Session ID: 19926dbf4ef7961f750847e8ee447470).
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 426 members in guild ID 196618637950451712.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 4 members in guild ID 261259535119941642.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 54 members in guild ID 295285912248647691.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 31 members in guild ID 295698667594055681.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 906 members in guild ID 299293492645986307.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 64 members in guild ID 318626746297745409.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 5 members in guild ID 321076205392625665.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1 members in guild ID 326941770489266176.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 327165719198433280.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 556 members in guild ID 327165719198433280.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 3 members in guild ID 330952336451043328.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 19 members in guild ID 350927645401153537.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 128 members in guild ID 366985144013291532.
+[18/12/2017 21:32] INFO state parse_guild_members_chunk 765: Processed a chunk for 8 members in guild ID 377941122032599040.
+[18/12/2017 21:32] INFO state _delay_ready 284: Requesting GUILD_SYNC for 13 guilds
+[18/12/2017 21:33] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:33] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:36] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:44] WARNING client __init__ 137: PyNaCl is not installed, voice will NOT be supported
+[18/12/2017 21:44] INFO client login 351: logging in using static token
+[18/12/2017 21:44] INFO gateway from_client 215: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[18/12/2017 21:44] INFO gateway identify 295: Shard ID None has sent the IDENTIFY payload.
+[18/12/2017 21:44] INFO gateway received_message 388: Shard ID None has connected to Gateway: gateway-prd-main-dhbj, discord-sessions-prd-1-3 (Session ID: 8a249489630f7c1a4187bf5cdeba8deb).
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 426 members in guild ID 196618637950451712.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 4 members in guild ID 261259535119941642.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 54 members in guild ID 295285912248647691.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 31 members in guild ID 295698667594055681.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 906 members in guild ID 299293492645986307.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 64 members in guild ID 318626746297745409.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 5 members in guild ID 321076205392625665.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1 members in guild ID 326941770489266176.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 1000 members in guild ID 327165719198433280.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 556 members in guild ID 327165719198433280.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 3 members in guild ID 330952336451043328.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 19 members in guild ID 350927645401153537.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 128 members in guild ID 366985144013291532.
+[18/12/2017 21:44] INFO state parse_guild_members_chunk 765: Processed a chunk for 8 members in guild ID 377941122032599040.
+[18/12/2017 21:44] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 21:44] INFO state _delay_ready 284: Requesting GUILD_SYNC for 13 guilds
+[18/12/2017 21:57] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[18/12/2017 22:03] INFO http request 186: We are being rate limited. Retrying in 0.49 seconds. Handled under the bucket "DELETE:299431230984683520:None:/channels/{channel_id}/messages/{message_id}"
+[18/12/2017 22:03] INFO http request 186: We are being rate limited. Retrying in 0.47 seconds. Handled under the bucket "DELETE:299431230984683520:None:/channels/{channel_id}/messages/{message_id}"
+[18/12/2017 22:03] INFO http request 186: We are being rate limited. Retrying in 0.54 seconds. Handled under the bucket "DELETE:299431230984683520:None:/channels/{channel_id}/messages/{message_id}"
+[18/12/2017 22:03] INFO http request 186: We are being rate limited. Retrying in 0.48 seconds. Handled under the bucket "DELETE:299431230984683520:None:/channels/{channel_id}/messages/{message_id}"
+[18/12/2017 22:03] INFO http request 186: We are being rate limited. Retrying in 0.51 seconds. Handled under the bucket "DELETE:299431230984683520:None:/channels/{channel_id}/messages/{message_id}"
+[18/12/2017 22:03] INFO http request 186: We are being rate limited. Retrying in 0.52 seconds. Handled under the bucket "DELETE:299431230984683520:None:/channels/{channel_id}/messages/{message_id}"
+[18/12/2017 22:07] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[18/12/2017 22:08] WARNING state parse_presence_update 424: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.

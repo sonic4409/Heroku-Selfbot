@@ -1,0 +1,22 @@
+{
+    "servers": [],
+    "user_location": "",
+    "keywords": [
+        "pyro",
+        "pyrotelekinetic"
+    ],
+    "context_len": "4",
+    "allservers": "True",
+    "log_size": "25",
+    "blacklisted_servers": [],
+    "webhook_url": "https://discordapp.com/api/webhooks/326943241922543626/vANdMOfM58IdO3TH9FNs78AHNkBSi5w9DjYURO6w8GrDqaMxFLJf_3G2NM3_AfVsd564",
+    "blacklisted_words": [],
+    "webhook_url2": "",
+    "blacklisted_channels": {},
+    "log_location": "326941770489266176 326941770489266176",
+    "blacklisted_users": [],
+    "keyword_logging": "on",
+    "keyusers": {},
+    "user_logging": "on",
+    "notifier_bot_token": ""
+}
