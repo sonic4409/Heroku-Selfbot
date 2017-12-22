@@ -20,14 +20,14 @@ class Wide:
 			ＭＥＳＳＡＧＥ　ＣＯＮＴＥＮＴＳ　ＯＮＬＹ　ＷＩＤＥ
 		"""
 
-			#check for message id or user id empty
+			#check for message id or user id or empty
 		if msg == "":
 			async for message in ctx.channel.history(limit=2):
 				msg = message.content
 
 		elif msg.isdigit():
-			#msgauth = find(lambda m: m.id == msg, ctx.server.members)
-			for member in ctx.server.members():
+			#msgauth = find(lambda m: m.id == msg, ctx.guild.members)
+			for member in ctx.guild.members():
 				if msg == str(member.id):
 					#find last message from that user
 					msg = "you got to the check"
