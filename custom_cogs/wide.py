@@ -22,6 +22,10 @@ class Wide:
 
 			#check for string or message id
 		if msg.isdigit():
+			#msgauth = find(lambda m: m.id == msg, ctx.server.members)
+			async for member in ctx.server.members
+				if msg == str(member.id):
+					
 			async for message in ctx.channel.history(limit=100):
 				if msg == str(message.id):
 					msg = message.content
