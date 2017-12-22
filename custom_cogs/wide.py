@@ -27,15 +27,14 @@ class Wide:
 
 		elif msg.isdigit():
 			#msgauth = find(lambda m: m.id == msg, ctx.guild.members)
-			for member in ctx.guild.members():
-				if msg == str(member.id):
-					#find last message from that user
-					msg = "you got to the check"
+			if msg in ctx.guild.members:
+				#find last message from that user
+				msg = "you got to the check"
 
-				else:
-					async for message in ctx.channel.history(limit=100):
-						if msg == str(message.id):
-							msg = message.content
+			else:
+				async for message in ctx.channel.history(limit=100):
+					if msg == str(message.id):
+						msg = message.content
 
 		widedict= {
 		"A": "Ａ",
