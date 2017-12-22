@@ -20,18 +20,21 @@ class Wide:
 			ＭＥＳＳＡＧＥ　ＣＯＮＴＥＮＴＳ　ＯＮＬＹ　ＷＩＤＥ
 		"""
 
-			#check for string or message id
-		if msg.isdigit():
-			#msgauth = find(lambda m: m.id == msg, ctx.server.members)
-			async for member in ctx.server.members
-				if msg == str(member.id):
-					
-			async for message in ctx.channel.history(limit=100):
-				if msg == str(message.id):
-					msg = message.content
-		elif msg == "":
+			#check for message id or user id empty
+		if msg == "":
 			async for message in ctx.channel.history(limit=2):
 				msg = message.content
+
+		elif msg.isdigit():
+			#msgauth = find(lambda m: m.id == msg, ctx.server.members)
+			for member in ctx.server.members():
+				if msg == str(member.id):
+					#find last message from that user
+
+				else:
+					async for message in ctx.channel.history(limit=100):
+						if msg == str(message.id):
+							msg = message.content
 
 		widedict= {
 		"A": "Ａ",
