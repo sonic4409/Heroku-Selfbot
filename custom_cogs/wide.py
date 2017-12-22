@@ -30,6 +30,7 @@ class Wide:
 			for member in ctx.server.members():
 				if msg == str(member.id):
 					#find last message from that user
+					msg = "you got to the check"
 
 				else:
 					async for message in ctx.channel.history(limit=100):
