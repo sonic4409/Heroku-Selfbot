@@ -27,7 +27,7 @@ class Wide:
 
 		elif msg.isdigit():
 			#msgauth = find(lambda m: m.id == msg, ctx.guild.members)
-			if msg in ctx.guild.members.id:
+			if msg in str.(ctx.guild.members):
 				#find last message from that user
 				msg = "you got to the check"
 
