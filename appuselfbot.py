@@ -378,13 +378,13 @@ async def restart(ctx):
             return (msg.content.lower().strip() == 'y' or msg.content.lower().strip() == 'n') and msg.author == bot.user
         else:
             return False
-"""
+
     latest = update_bot(True)
     if latest:
-        await ctx.send(bot.bot_prefix + 'There is an update available for the bot. Download and apply the update on restart? (y/n)')
+        """await ctx.send(bot.bot_prefix + 'There is an update available for the bot. Download and apply the update on restart? (y/n)')
         reply = await bot.wait_for("message", check=check)
         with open('restart.txt', 'w', encoding="utf8") as re:
-            re.write(str(ctx.message.channel.id))
+            re.write(str(ctx.message.channel.id))"""
         if not reply or reply.content.lower().strip() == 'n':
             print('Restarting...')
             await ctx.send(bot.bot_prefix + 'Restarting...')
@@ -397,8 +397,8 @@ async def restart(ctx):
                 q.write('update')
             print('Downloading update and restarting...')
             await ctx.send(bot.bot_prefix + 'Downloading update and restarting (check your console to see the progress)...')
-"""
-#    else:
+
+"""    else:
     print('Restarting...')
     with open('restart.txt', 'w', encoding="utf8") as re:
         re.write(str(ctx.message.channel.id))
@@ -406,7 +406,7 @@ async def restart(ctx):
 
     if bot.subpro:
         bot.subpro.kill()
-    os._exit(0)
+    os._exit(0)"""
 
 
 @bot.command(pass_context=True, aliases=['upgrade'])
