@@ -88,7 +88,7 @@ def avatar_time_check(oldtime, interval):
         return False
     return time.time()
 
-"""
+
 def update_bot(message):
     g = git.cmd.Git(working_dir=os.getcwd())
     g.execute(["git", "fetch", "origin", "master"])
@@ -115,7 +115,7 @@ def update_bot(message):
         em.set_thumbnail(url='https://image.flaticon.com/icons/png/512/25/25231.png')
         em.set_footer(text='Full project: https://github.com/appu1232/Discord-Selfbot')
         return em
-"""
+
 
 def cmd_prefix_len():
     config = load_config()
